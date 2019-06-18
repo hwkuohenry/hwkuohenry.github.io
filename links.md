@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Links
+permalink: /lines/
 ---
 
 Short-and-Sparse Blind Deconvolution
