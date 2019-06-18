@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Han-Wen (Henry) Kuo's Webpage
 email: hwkuo.henry@gmail.com
-description: Welcome! This webpage is about my research interest 
-baseurl: "https://hwkuohenry.github.io/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: Paper: list of selected paper. \\ Projects: list of projects.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hwkuohenry.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
 github_username:  hwkuo.henry
 
