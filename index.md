@@ -5,4 +5,5 @@
 layout: home
 ---
 
-My current research interest is focus on scientific sigmal processing, including 
+My current research interest is focused on scientific signal processing, on computational methods for medical/microscopic imaging. Involving areas of high dimensional data analysis, signal processing, optimization and computer vision.
+
