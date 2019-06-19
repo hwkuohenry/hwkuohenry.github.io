@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Links
-permalink: /lines/
+permalink: /links/
 ---
 
-Short-and-Sparse Blind Deconvolution
-
-Compressed Sensing Line Probe Microscopy
+Here I'd like to list my fellow collaborators. 
 
 
