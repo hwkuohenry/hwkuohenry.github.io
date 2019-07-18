@@ -1,0 +1,377 @@
+/**
+ * Site header
+ */
+.site-header {
+  border-top: 1px solid $grey-color-dark;
+  border-bottom: 1px solid $grey-color-dark;
+  background-color: $grey-color-light;
+  min-height: $spacing-unit * 1.865;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  z-index: 9999;
+
+  // Positioning context for the mobile navigation icon
+  position: relative;
+}
+
+.site-title {
+  @include relative-font-size(1.6);
+  font-weight: 400;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  margin-left:45px;
+  float: left;
+  font-variant:small-caps; 
+  z-index: 1;
+
+  @include media-query($on-palm) {
+    position:absolute;
+    margin-left:2px;
+  }
+
+  &:visited {
+    color: $grey-color-dark;
+  }
+}
+
+
+.site-nav {
+  position: absolute;
+  top: 4px;
+  right: $spacing-unit / 2;
+  background-color: $grey-color-light;
+  text-align: right;
+
+  .nav-trigger {
+      display: none;
+  }
+
+  .menu-icon {
+    float: right;
+    width: 36px;
+    height: 26px;
+    line-height: 0;
+    padding-top: 14px;
+    text-align: center;
+
+    > svg path {
+      fill: $grey-color-dark;
+    }
+
+  }
+
+  label[for="nav-trigger"] {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 40px;
+    z-index: 2;
+    cursor: pointer;
+  }
+
+  input ~ .trigger {
+    clear: both;
+    display: none;
+  }
+
+  input:checked ~ .trigger {
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  }
+
+
+  .page-link {
+    @include relative-font-size(1.1);
+    color: $text-color;
+    line-height: $base-line-height;
+    display: block;
+    padding: 5px 0px;
+    font-variant:small-caps; 
+
+    margin-right: 20px;
+    margin-left: 20px;
+
+    &:hover {
+    color:  #4d004d;
+    text-decoration: underline;
+  }
+
+  }
+
+  @media screen and (min-width: $on-medium) {
+    position: static;
+    float: right;
+    border: none;
+
+    label[for="nav-trigger"] {
+      display: none;
+    }
+
+    .menu-icon {
+      display: none;
+    }
+
+    input ~ .trigger {
+      display: block;
+    }
+
+    .page-link {
+      display: inline;
+      padding: 0;
+
+      margin-right:0;
+      margin-left: 25px;
+    }
+  }
+}
+
+
+
+/**
+ * Site footer
+ */
+.site-footer {
+  background-color:$grey-color-light;
+  border-top: 1px solid $grey-color-light;
+  width:100%;
+  padding: $spacing-unit 0 ;
+}
+
+
+.footer-heading {
+  @include relative-font-size(1.125);
+  margin-bottom: $spacing-unit / 2;
+}
+
+.contact-list,
+.social-media-list {
+  list-style: none;
+  margin-left: 50px;
+}
+
+.footer-col-wrapper {
+  @include relative-font-size(0.93);
+  color: $grey-color;
+  @extend %clearfix;
+}
+
+.footer-col {
+  width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+  width:         calc(100% - (#{$spacing-unit} / 2));
+  margin-bottom: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
+}
+
+.footer-col-1,
+.footer-col-2 {
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+  width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+  width:         calc(100% - (#{$spacing-unit} / 2));
+}
+
+@media screen and (min-width: $on-large) {
+  .footer-col-1 {
+    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+    width:         calc(35% - (#{$spacing-unit} / 2));
+  }
+
+  .footer-col-2 {
+    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+    width:         calc(20% - (#{$spacing-unit} / 2));
+  }
+
+  .footer-col-3 {
+    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+    width:         calc(45% - (#{$spacing-unit} / 2));
+  }
+}
+
+@media screen and (min-width: $on-medium) {
+  .footer-col {
+    float: left;
+  }
+}
+
+
+
+/**
+ * Page content
+ */
+.page-content {
+  padding: $spacing-unit 0;
+  flex: 1 0 auto;
+  text-align: left;
+  @media screen and (min-width: $on-medium) {
+    text-align: justify;
+  }
+}
+
+.page-heading {
+  @include relative-font-size(2);
+}
+
+.post-list-heading {
+  @include relative-font-size(1.75);
+}
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+
+  > li {
+    margin-bottom: $spacing-unit;
+  }
+}
+
+.post-meta {
+  font-size: $small-font-size;
+  color: $grey-color;
+}
+
+.post-link {
+  display: block;
+  @include relative-font-size(1.5);
+}
+
+
+
+/**
+ * Posts
+ */
+.post-header {
+  margin-bottom: $spacing-unit;
+}
+
+.post-title,
+.post-content h1 {
+  @include relative-font-size(2.625);
+  letter-spacing: -1px;
+  line-height: 1;
+  text-align:left;
+  font-variant:small-caps;
+
+  @media screen and (min-width: $on-large) {
+    @include relative-font-size(2.625);
+  }
+}
+
+.post-content {
+  margin-bottom: $spacing-unit;
+
+  h2 {
+    @include relative-font-size(1.75);
+    font-family: $titie-font-family;
+    padding-bottom: 0.2em;
+    margin-top: 0.8em;
+    margin-bottom:0.2em;
+    text-align:left;
+    border-bottom: 1px solid $rule-color;
+    @media screen and (min-width: $on-large) {
+      @include relative-font-size(1.75);
+    }
+  }
+
+  h3 {
+    @include relative-font-size(1.2);
+    font-family: Helvetica;
+    font-style: italic;
+    padding-bottom: 0.2em;
+    margin-top: 1em;
+    margin-bottom:0.2em;
+    text-align:left;
+    @media screen and (min-width: $on-large) {
+      @include relative-font-size(1.2);
+    }
+  }
+
+  h4 {
+    @include relative-font-size(1.2);
+    padding-bottom: 0.2em;
+    margin-top: 0.8em;
+    margin-bottom:0.2em;
+    text-align:left;
+    font-family: $titie-font-family;
+    @media screen and (min-width: $on-large) {
+      @include relative-font-size(1.2);
+    }
+  }
+}
+
+
+.social-media-list {
+  display: table;
+  margin: 0 auto;
+  li {
+    float: left;
+    margin: 0 5px;
+    &:first-of-type { margin-left: 0 }
+    &:last-of-type { margin-right: 0 }
+    a {
+      display: block;
+      padding: $spacing-unit / 4;
+      border: 1px solid $grey-color-light
+    }
+    &:hover .svg-icon { fill: currentColor; }
+  }
+}
+
+
+/**
+ * Grid helpers
+ */
+@media screen and (min-width: $on-large) {
+  .one-half {
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
+  }
+}
+
+
+/**
+ * Reference 
+ */
+.ref{
+  font-size: 70%;
+  margin-bottom:0.3em;
+  margin-top:0.3em;
+}
+
+
+/**
+ * Paper
+ */
+.title{
+  font-size: 100%;
+  margin:0 0 0 0;
+}
+
+.author{
+  font-size:90%;
+  padding: 0 0 0 20px;
+  margin: 0 0 0 0;
+}
+
+.booktitle{
+  font-style:italic;
+  font-size:90%;
+  padding: 0 0 0 20px;
+  margin: 0 0 0 0;
+}
+
+
+.bibtex{
+  display: none;
+  width: 95%;
+  font-size:80%;
+  padding: 10px 20px 10px 20px;
+  background-color: $grey-color-light;
+  margin: 10px 10px;
+}
+
+
+
