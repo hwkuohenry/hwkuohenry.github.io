@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-I organized my projects as follows. For more information, please clicks the following links and access to more complete description of each of the projects. 
+My involved projectes are organized as follows. For more information, please clicks the following links accessing to dedicated web pages in which  we elaborate each of the projects in details. 
 
 
 ## Short-and-Sparse Deconvolution ##
@@ -27,7 +27,7 @@ I organized my projects as follows. For more information, please clicks the foll
 	<col width="25%">
 	<col width="75%">
 	<tr>
-    	<td> <a href="https://google.com"><img src="/assets/fig_probe_closeup2.png" > </a> </td>
-    	<td>We study the use of <a href="https://google.com"> line probe in microscopy </a> for structured signal. Unlike conventional point probe, the line probe measurement is accumulated electric current between the contact surface of the line shaped probe and sample, and is <b> delocalized </b> and hence more <b>efficient</b>.</td>
+    	<td> <a href="/pages/intro_clp"><img src="/assets/fig_probe_closeup2.png" > </a> </td>
+    	<td>We study the use of <a href="/pages/intro_clp"> line probe in microscopy </a> for structured signal. Unlike conventional point probe, a single line probe measurement is the accumulated electric current between the contact surface of the line shaped probe and sample. The line probe measurements are <b> delocalized </b> and hence more <b>efficient</b>.</td>
   	</tr>
 </table>

@@ -10,7 +10,7 @@ Photoed in 2018 watching champions league final (in Liverpool FC supporter's pub
 
 I am a graduating PhD student form Columbia University advised by professor [John Wright](http://www.columbia.edu/~jw2966/) and involved in active reseearch with professor [Daniel Esposito](https://cheme.columbia.edu/faculty/daniel-esposito). My research is focused on developing and understanding methodologies for data analysis; and I am specifically interested in analyzing machine learning algorithms for scientific and visual data processing. 
 
-My recent projects involves in building [mathematical understading toward deconvolution problems](https:/sbdsphere.github.io), and interdeciplinary reasearch with chemistry department on [efficient microscopic imaging](??). These projects are intersection of high-dimensional data analysis,  non-convex optimization, and theories of inverse problem. 
+My recent projects involve building [mathematical understading toward deconvolution problems](https:/sbdsphere.github.io), and interdeciplinary reasearch with chemistry department on [efficient microscopic imaging](??). These projects are intersection of high-dimensional data analysis,  non-convex optimization, and theories of inverse problem. 
 
 
 <br/>
@@ -34,8 +34,8 @@ My recent projects involves in building [mathematical understading toward deconv
 	<col width="25%">
 	<col width="75%">
 	<tr>
-    	<td> <a href="https://google.com"><img src="/assets/fig_probe_closeup2.png" > </a> </td>
-    	<td>We study the use of <a href="https://google.com"> line probe in microscopy </a> for structured signal. Unlike conventional point probe, the line probe measurement is accumulated electric current between the contact surface of the line shaped probe and sample, and is <b> delocalized </b> and hence more <b>efficient</b>.</td>
+    	<td> <a href="/pages/intro_clp"><img src="/assets/fig_probe_closeup2.png" > </a> </td>
+    	<td>We study the use of <a href="/pages/intro_clp"> line probe in microscopy </a> for structured signal. Unlike conventional point probe, a single line probe measurement is the accumulated electric current between the contact surface of the line shaped probe and sample. The line probe measurements are <b> delocalized </b> and hence more <b>efficient</b>.</td>
   	</tr>
 </table>
 
