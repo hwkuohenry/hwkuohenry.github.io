@@ -8,9 +8,9 @@ Photoed in 2018 watching champions league final (in Liverpool FC supporter's pub
 {:style="float:right; width:26%; margin:5px 10px 10px 15px; font-size:50%; font-style:italic"}
 
 
-I am a graduating PhD student form Columbia University advised by professor [John Wright](http://www.columbia.edu/~jw2966/) and involved in active reseearch with professor [Daniel Esposito](https://cheme.columbia.edu/faculty/daniel-esposito). My research is focused on developing and understanding methodologies for data analysis; and I am specifically interested in analyzing machine learning algorithms for scientific and visual data processing. 
+I am a graduating PhD student form Columbia University advised by professor [John Wright](http://www.columbia.edu/~jw2966/) and involved in active research with professor [Daniel Esposito](https://cheme.columbia.edu/faculty/daniel-esposito). My research is focused on developing and understanding methodologies for data analysis; and I am specifically interested in analyzing machine learning algorithms for scientific and visual data processing. 
 
-My recent projects involve building [mathematical understading toward deconvolution problems](https:/sbdsphere.github.io), and interdeciplinary reasearch with chemistry department on [efficient microscopic imaging](??). These projects are intersection of high-dimensional data analysis,  non-convex optimization, and theories of inverse problem. 
+My recent projects involve building [mathematical understanding toward deconvolution problems](https:/sbdsphere.github.io), and interdisciplinary research with chemistry department on [efficient microscopic imaging](??). These projects are intersection of high-dimensional data analysis,  non-convex optimization, and theories of inverse problem. 
 
 
 <br/>
