@@ -80,7 +80,7 @@ Image reconstruction from line scans under this scenario can be cast as finding 
 \\[ \min_{p,\mathbf X} \lambda\lVert\mathbf X\rVert_1 + \tfrac12 \lVert\mathcal S[\mathbf \psi(p) * \mathcal L_{\Theta}[\mathbf D*\mathbf X]] - \mathbf R\rVert_2^2 \tag{1}\\]
 
 
-The algorithm (1) serves as a good cornerstone for the reconstruction method; it is advised to modify (1) accordingly to accommodate several properties of line scans to achieve satisfactory iamge reconstruction results.  
+The algorithm (1) serves as a good cornerstone for the reconstruction method; it is advised to modify (1) accordingly to accommodate several properties of line scans to achieve satisfactory image reconstruction results.  
 
 
 ### Demo ###
