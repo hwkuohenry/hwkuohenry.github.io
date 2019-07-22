@@ -23,6 +23,7 @@ minima:
   # generate social links in footer
   social_links:
     linkedin: hwkuohenry
+    github: hwkuohenry
 
 # Build settings
 # markdown: kramdown
