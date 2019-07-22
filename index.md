@@ -10,7 +10,7 @@ Photoed in 2018 watching champions league final (in Liverpool FC supporter's pub
 
 I am a graduating PhD student form Columbia University advised by professor [John Wright](http://www.columbia.edu/~jw2966/) and involved in active research with professor [Daniel Esposito](https://cheme.columbia.edu/faculty/daniel-esposito). My research is focused on developing and understanding methodologies for data analysis; and I am specifically interested in analyzing machine learning algorithms for scientific and visual data processing. 
 
-My recent projects involve building [mathematical understanding toward deconvolution problems](https:/sbdsphere.github.io), and interdisciplinary research with chemistry department on [efficient microscopic imaging](??). These projects are intersection of high-dimensional data analysis,  non-convex optimization, and theories of inverse problem. 
+My recent projects involve building [mathematical understanding toward deconvolution problems](https://deconvlab.github.io), and interdisciplinary research with chemistry department on [efficient microscopic imaging](??). These projects are intersection of high-dimensional data analysis,  non-convex optimization, and theories of inverse problem. 
 
 
 <br/>
@@ -23,8 +23,8 @@ My recent projects involve building [mathematical understanding toward deconvolu
 	<col width="25%">
 	<col width="75%">
 	<tr>
-    	<td> <a href="https://sbdsphere.github.io"><img src="/assets/fig_realdata_rec.png" > </a> </td>
-    	<td>  Datasets in many areas can be effectively expressed as convolution of a <b> short </b> pattern and <b> sparse </b> map represents occurrences of the pattern. We study an algorithm for solving <a href="https://sbdsphere.github.io"> deconvolution of short-and-sparse signal</a>, providing a theoretical understanding and general purposed computational method. </td>
+    	<td> <a href="https://deconvlab.github.io"><img src="/assets/fig_realdata_rec.png" > </a> </td>
+    	<td>  Datasets in many areas can be effectively expressed as convolution of a <b> short </b> pattern and <b> sparse </b> map represents occurrences of the pattern. We study an algorithm for solving <a href="https://deconvlab.github.io"> deconvolution of short-and-sparse signal</a>, providing a theoretical understanding and general purposed computational method. </td>
   	</tr>
 </table>
 
