@@ -83,10 +83,13 @@ Image reconstruction from line scans under this scenario can be cast as finding 
 The algorithm (1) serves as a good cornerstone for the reconstruction method. Naturally to accommodate several properties of line scans, it is advised to modify (1) accordingly.
 
 
-
-
-
 ### Demo ###
+
+We demonstrate an example of scan line image reconstruction from lab made SECM microscope. The top row compares the image from of point probe and line probe over a sample with 3 particles. The bottom row shows the result of line probe over a larger sized sample with 10 particles. Image resolution is $10\mu m$ per pixel. 
+
+![](/assets/fig_demo.png)
+*Top row: 3 particle sample. Bottom row: 10 particle sample. Image pixel width/height are $10\mu m $.*
+{: style="width:80%; align:center; margin-left:auto; margin-right: auto; font-size: 60%"}
 
 
 
@@ -160,7 +163,7 @@ The package for both simulation and real data reconstruction for microscopic lin
 [2]. M. E. Davis, J. E. Zuckerman, C. H. J. Choi, D. Seligson, A. Tolcher, C. A. Alabi, Y. Yen, J. D. Heidel, and A. Ribas, Evidence of rnai in humans from systemically administered sirna via targeted nanoparticles, *Nature*, vol. 464, no. 7291, p. 1067, 2010.
 
 {:.ref}
-[3]. C. A. S. Batista, R. G. Larson, and N. A. Kotov, “Nonadditivity of nanoparticle interactions,” *Science*, vol. 350, no. 6257, p. 1242477, 2015.
+[3]. C. A. S. Batista, R. G. Larson, and N. A. Kotov, “Nonadditivity of nanoparticle interactions”, *Science*, vol. 350, no. 6257, p. 1242477, 2015.
 
 
 
