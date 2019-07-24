@@ -100,7 +100,7 @@ We demonstrate an example of scan line image reconstruction from lab made SECM m
 
 [Compressed Sensing Microscopy with Scanning Line Probes](/assets/neurips_2019.pdf)
 {:.title}
- **Han-wen Kuo**, Anna E. Dorfi, Daniel V. Esposito, John Wright, 
+ **Han-Wen Kuo**, Anna E. Dorfi, Daniel V. Esposito, John Wright, 
 {:.author}
 In review, 2019
 {:.booktitle}
@@ -131,7 +131,7 @@ Analytical chemistry, 2018
 <div id="bibtex-scanning" class="bibtex">
 @article{oneil2018scanning,
   title={Scanning Line Probe Microscopy: Beyond the Point Probe},
-  author={O’Neil, Glen D. and Kuo, Han-wen and Lomax, Duncan N. and Wright, John and Esposito, Daniel V.},
+  author={O’Neil, Glen D. and Kuo, Han-Wen and Lomax, Duncan N. and Wright, John and Esposito, Daniel V.},
   journal={Analytical chemistry},
   volume={90},
   number={19},

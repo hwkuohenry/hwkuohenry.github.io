@@ -106,7 +106,7 @@ In review, 2019
 
 [Compressed Sensing Microscopy with Scanning Line Probes](/assets/neurips_2019.pdf)
 {:.title}
- **Han-wen Kuo**, Anna E. Dorfi, Daniel V. Esposito, John Wright, 
+ **Han-Wen Kuo**, Anna E. Dorfi, Daniel V. Esposito, John Wright, 
 {:.author}
 In review, 2019
 {:.booktitle}
@@ -128,7 +128,7 @@ In review, 2019
 
 [Design and Operation of a Scanning Electrochemical Microscope for Imaging with Continuous Line Probes](/assets/RSI19.pdf)
 {:.title}
-Anna E. Dorfi, **Han-wen Kuo**, Vera Smirnova, John Wright, Daniel V. Esposito
+Anna E. Dorfi, **Han-Wen Kuo**, Vera Smirnova, John Wright, Daniel V. Esposito
 {:.author}
 In review, 2019
 {:.booktitle}
@@ -161,7 +161,7 @@ Analytical chemistry, 2018
 <div id="bibtex-scanning" class="bibtex">
 @article{oneil2018scanning,
   title={Scanning Line Probe Microscopy: Beyond the Point Probe},
-  author={O’Neil, Glen D. and Kuo, Han-wen and Lomax, Duncan N. and Wright, John and Esposito, Daniel V.},
+  author={O’Neil, Glen D. and Kuo, Han-Wen and Lomax, Duncan N. and Wright, John and Esposito, Daniel V.},
   journal={Analytical chemistry},
   volume={90},
   number={19},
@@ -197,7 +197,7 @@ Long version of ICCV, 2013
 
 [Compressed Sensing Microscopy with Scanning Line Probes](/assets/neurips_2019.pdf)
 {:.title}
- **Han-wen Kuo**, Anna E. Dorfi, Daniel V. Esposito, John Wright, 
+ **Han-Wen Kuo**, Anna E. Dorfi, Daniel V. Esposito, John Wright, 
 {:.author}
 In review, 2019
 {:.booktitle}
@@ -290,7 +290,7 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2
 <div id="bibtex-sphere" class="bibtex">
 @inproceedings{zhang2017global,
   title={On the global geometry of sphere-constrained sparse blind deconvolution},
-  author={Zhang, Yuqian and Lau, Yenson and Kuo, Han-wen and Cheung, Sky and Pasupathy, Abhay and Wright, John},
+  author={Zhang, Yuqian and Lau, Yenson and Kuo, Han-Wen and Cheung, Sky and Pasupathy, Abhay and Wright, John},
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   pages={4894--4902},
   year={2017}
