@@ -7,7 +7,7 @@ permalink: /projects/
 My involved projectes are organized as follows. For more information, please clicks the following links accessing to dedicated web pages in which  we elaborate each of the projects in details. 
 
 
-## Short-and-Sparse Deconvolution ##
+## [Short-and-Sparse Deconvolution](https://deconvlab.github.io) ##
 
 <table>
 	<col width="25%">
@@ -20,7 +20,7 @@ My involved projectes are organized as follows. For more information, please cli
 
 
 
-## Microscope with Line Probe ##
+## [Microscope with Line Probe](/pages/intro_clp) ##
 
                    
 <table>

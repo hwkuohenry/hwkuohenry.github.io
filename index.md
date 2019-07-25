@@ -17,7 +17,7 @@ My recent projects involve building [mathematical understanding toward deconvolu
 
 
 ## Projects ##
-### Short-and-Sparse Deconvolution ###
+### [Short-and-Sparse Deconvolution](https://deconvlab.github.io) ###
 
 <table>
 	<col width="25%">
@@ -28,7 +28,7 @@ My recent projects involve building [mathematical understanding toward deconvolu
   	</tr>
 </table>
 
-### Microscope with Line Probe ###
+### [Microscope with Line Probe](/pages/intro_clp) ###
                  
 <table>
 	<col width="25%">
