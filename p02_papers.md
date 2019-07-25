@@ -57,7 +57,7 @@ In review, 2019
 {:.title}
 Yuqian Zhang, **Han-Wen Kuo**, John Wright
 {:.author}
-In review, 2018
+IEEE Transactions on Information Theory, 2019 (To appear)
 {:.booktitle}
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="https://arxiv.org/pdf/1806.00338.pdf"> preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
@@ -80,7 +80,7 @@ In review, 2018
 {:.title}
 Yuqian Zhang, Yenson Lau, **Han-Wen Kuo**, Sky Cheung, Abhay Pasupathy, John Wright
 {:.author}
-In review, 2019
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019 (to appear)
 {:.booktitle}
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="https://arxiv.org/pdf/1901.01913.pdf"> preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
@@ -130,7 +130,7 @@ In review, 2019
 {:.title}
 Anna E. Dorfi, **Han-Wen Kuo**, Vera Smirnova, John Wright, Daniel V. Esposito
 {:.author}
-In review, 2019
+Review of Scientific Instruments, 2019 (to appear)
 {:.booktitle}
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/RSI19.pdf" > preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
