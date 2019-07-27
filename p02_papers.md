@@ -193,7 +193,7 @@ Long version of ICCV, 2013
 }
 </div>
 
-## Conference Submissions ##
+## Conference ans Workshop Submissions ##
 
 [Compressed Sensing Microscopy with Scanning Line Probes](/assets/neurips_2019.pdf)
 {:.title}
@@ -239,7 +239,7 @@ In review, 2019
 {:.title}
 **Han-Wen Kuo**,  Yuqian Zhang, Yenson Lau, John Wright
 {:.author}
-Proceedings of the 36th International Conference on Machine Learning, 2019
+Proceedings of the 36th International Conference on Machine Learning **(ICML)**, 2019
 {:.booktitle}
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/SaSD_icml2019.pdf"> paper </a></span> <span class="glyphicon glyphicon-paperclip"></span>
@@ -255,12 +255,52 @@ Proceedings of the 36th International Conference on Machine Learning, 2019
 }
 </div>
 
+[Scanning Probe Microscopy with Continuous Line Probe](/assets/neurips_2019.pdf)
+{:.title}
+ **Han-Wen Kuo**, Anna E. Dorfi, Daniel V. Esposito, John Wright, 
+{:.author}
+Signal Processing with Adaptive Sparse Structured Representations **(SPARS)** Workshop, 2019
+{:.booktitle}
+
+<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/neurips_2019.pdf" > preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
+<span style="margin-right:5px"><a role="button" onclick="toggle_block('bibtex-csclp')" >bibtex</a></span><span class="glyphicon glyphicon-picture"></span> <span style="margin-right:5px"><a role="button" href="/assets/poster_secmclp.pdf">poster</a></span>
+
+<div id="bibtex-csclp" class="bibtex">
+@article{kuo2019compressed,
+  title={Compressed Sensing Microscopy with Scanning Line Probes},
+  author={Kuo, Han-Wen and Dorfi, Anna E. and Esposito, Daniel V. and Wright, John},
+  journal={Signal Processing with Adaptive Sparse Structured Representations (SPARS) Workshop},
+  year={2019}
+}
+</div>
+
+[Short-and-Sparse Deconvolution — A Geometric Approach](/assets/neurips_2019_sas.pdf)
+{:.title}
+Yenson Lau, Qing Qu, **Han-Wen Kuo**, Pengcheng Zhou, Yuqian Zhang, John Wright
+{:.author}
+Processing with Adaptive Sparse Structured Representations **(SPARS)** Workshop, 2019
+{:.booktitle}
+
+<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/neurips_2019_sas.pdf"> preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
+<span style="margin-right:5px"><a role="button" onclick="toggle_block('bibtex-sasgeo')" >bibtex</a></span>
+
+<div id="bibtex-sasgeo" class="bibtex">
+@article{lau2019short,
+  title={Short-and-Sparse Deconvolution — A Geometric Approach},
+  author={Lau, Yenson and Qu, Qing and Kuo, Han-Wen and Zhou, Pengcheng and Zhang, Yuqian and Wright, John},
+  journal={Signal Processing with Adaptive Sparse Structured Representations Workshop},
+  year={2019}
+}
+}
+</div>
+
+
 
 [Structured Local Minima in Sparse Blind Deconvolution](http://papers.nips.cc/paper/7500-structured-local-minima-in-sparse-blind-deconvolution.pdf)
 {:.title}
 Yuqian Zhang, **Han-Wen Kuo**, John Wright
 {:.author}
-Advances in Neural Information Processing Systems, 2018
+Advances in Neural Information Processing Systems **(NeurIPS)**, 2018
 {:.booktitle}
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="http://papers.nips.cc/paper/7500-structured-local-minima-in-sparse-blind-deconvolution.pdf"> paper </a></span> <span class="glyphicon glyphicon-paperclip"></span>
@@ -281,7 +321,7 @@ Advances in Neural Information Processing Systems, 2018
 {:.title}
 Yuqian Zhang, Yenson Lau, **Han-Wen Kuo**, Sky Cheung, Abhay Pasupathy, John Wright
 {:.author}
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2017
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2017
 {:.booktitle}
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_On_the_Global_CVPR_2017_paper.pdf"> paper </a></span> <span class="glyphicon glyphicon-paperclip"></span>
@@ -302,7 +342,7 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2
 {:.title}
 Yuqian Zhang, Cun Mu, **Han-Wen Kuo**, John Wright
 {:.author}
-Proceedings of the IEEE International Conference on Computer Vision, 2013
+Proceedings of the IEEE International Conference on Computer Vision **(ICCV)**, 2013
 {:.booktitle}
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Zhang_Toward_Guaranteed_Illumination_2013_ICCV_paper.pdf"> paper </a></span> <span class="glyphicon glyphicon-paperclip"></span>
