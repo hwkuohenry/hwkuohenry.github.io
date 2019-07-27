@@ -263,9 +263,9 @@ Signal Processing with Adaptive Sparse Structured Representations **(SPARS)** Wo
 {:.booktitle}
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/spars_2019_secmclp.pdf" > paper </a></span> <span class="glyphicon glyphicon-paperclip"></span>
-<span style="margin-right:5px"><a role="button" onclick="toggle_block('bibtex-csclp')" >bibtex</a></span><span class="glyphicon glyphicon-picture"></span> <span style="margin-right:5px"><a role="button" href="/assets/poster_secmclp.pdf">poster</a></span>
+<span style="margin-right:5px"><a role="button" onclick="toggle_block('bibtex-spars-csclp')" >bibtex</a></span><span class="glyphicon glyphicon-picture"></span> <span style="margin-right:5px"><a role="button" href="/assets/poster_secmclp.pdf">poster</a></span>
 
-<div id="bibtex-csclp" class="bibtex">
+<div id="bibtex-spars-csclp" class="bibtex">
 @article{kuo2019compressed,
   title={Compressed Sensing Microscopy with Scanning Line Probes},
   author={Kuo, Han-Wen and Dorfi, Anna E. and Esposito, Daniel V. and Wright, John},
@@ -282,9 +282,9 @@ Processing with Adaptive Sparse Structured Representations **(SPARS)** Workshop,
 {:.booktitle}
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/spars_2019_sas.pdf"> paper </a></span> <span class="glyphicon glyphicon-paperclip"></span>
-<span style="margin-right:5px"><a role="button" onclick="toggle_block('bibtex-sasgeo')" >bibtex</a></span>
+<span style="margin-right:5px"><a role="button" onclick="toggle_block('bibtex-spars-sasgeo')" >bibtex</a></span>
 
-<div id="bibtex-sasgeo" class="bibtex">
+<div id="bibtex-spars-sasgeo" class="bibtex">
 @article{lau2019short,
   title={Short-and-Sparse Deconvolution — A Geometric Approach},
   author={Lau, Yenson and Qu, Qing and Kuo, Han-Wen and Zhou, Pengcheng and Zhang, Yuqian and Wright, John},
