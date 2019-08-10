@@ -4,7 +4,7 @@ title: Talks
 permalink: /talks/
 ---
 
-For the talks I attended, the presentation materials are listed below. 
+For the talks I have given, the presentation materials are listed below. 
 
 --------
 {:style="margin-bottom:20px"}
