@@ -14,7 +14,7 @@ ketex: true
 {:.title}
 **Han-Wen Kuo**, Yuqian Zhang, Yenson Lau, John Wright
 {:.author}
-SIAM Jounral on Mathematics of Data Science, 2019 (to appear)
+SIAM Journal on Mathematics of Data Science, 2019 (to appear)
 {:.booktitle}
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="https://arxiv.org/pdf/1901.00256.pdf"> preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
 <span style="margin-right:5px"><a role="button" onclick="toggle_block('bibtex-sas-long')" >bibtex</a></span> <span> <span class="glyphicon glyphicon-picture"></span> <span style="margin-right:5px"><a role="button" href="/assets/poster_SaSD.pdf">poster</a></span> <span class="glyphicon glyphicon-film"></span> <span style="margin-right:5px"><a role="button" href="/assets/slides_SaSD.pdf">slides</a></span> 
