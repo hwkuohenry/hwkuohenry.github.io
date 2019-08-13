@@ -300,7 +300,7 @@ Processing with Adaptive Sparse Structured Representations **(SPARS)** Workshop,
 {:.title}
 Yuqian Zhang, **Han-Wen Kuo**, John Wright
 {:.author}
-Advances in Neural Information Processing Systems **(NeurIPS)**, 2018
+Advances in Neural Information Processing Systems **(NeurIPS)**, Oral, 2018
 {:.booktitle}
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="http://papers.nips.cc/paper/7500-structured-local-minima-in-sparse-blind-deconvolution.pdf"> paper </a></span> <span class="glyphicon glyphicon-paperclip"></span>
@@ -342,7 +342,7 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition **
 {:.title}
 Yuqian Zhang, Cun Mu, **Han-Wen Kuo**, John Wright
 {:.author}
-Proceedings of the IEEE International Conference on Computer Vision **(ICCV)**, 2013
+Proceedings of the IEEE International Conference on Computer Vision **(ICCV)**, Oral,  2013
 {:.booktitle}
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Zhang_Toward_Guaranteed_Illumination_2013_ICCV_paper.pdf"> paper </a></span> <span class="glyphicon glyphicon-paperclip"></span>
