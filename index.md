@@ -88,7 +88,7 @@ In review, 2019
 {:.title}
 Glen D. O’Neil, **Han-Wen Kuo**, Duncan N. Lomax, John Wright, Daniel V. Esposito
 {:.author}
-Analytical chemistry, 2018
+Analytical Chemistry, 2018
 {:.booktitle}
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/acs.analchem.8b02852.pdf"> paper </a></span> <span class="glyphicon glyphicon-paperclip"></span>
