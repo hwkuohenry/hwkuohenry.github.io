@@ -152,7 +152,7 @@ Review of Scientific Instruments, 2019 (to appear)
 {:.title}
 Glen D. O’Neil, **Han-Wen Kuo**, Duncan N. Lomax, John Wright, Daniel V. Esposito
 {:.author}
-Analytical chemistry, 2018
+Analytical Chemistry, 2018
 {:.booktitle}
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/acs.analchem.8b02852.pdf"> paper </a></span> <span class="glyphicon glyphicon-paperclip"></span>
@@ -193,7 +193,7 @@ Long version of ICCV, 2013
 }
 </div>
 
-## Conference ans Workshop Submissions ##
+## Conference & Workshop Submissions ##
 
 [Compressed Sensing Microscopy with Scanning Line Probes](/assets/neurips_2019.pdf)
 {:.title}
