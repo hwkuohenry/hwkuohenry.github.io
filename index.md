@@ -97,7 +97,7 @@ Analytical Chemistry, 2018
 <div id="bibtex-scanning" class="bibtex">
 @article{oneil2018scanning,
   title={Scanning Line Probe Microscopy: Beyond the Point Probe},
-  author={O’Neil, Glen D. and Kuo, Han-wen and Lomax, Duncan N. and Wright, John and Esposito, Daniel V.},
+  author={O’Neil, Glen D. and Kuo, Han-Wen and Lomax, Duncan N. and Wright, John and Esposito, Daniel V.},
   journal={Analytical Chemistry},
   volume={90},
   number={19},
