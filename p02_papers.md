@@ -130,10 +130,10 @@ In review, 2019
 {:.title}
 Anna E. Dorfi, **Han-Wen Kuo**, Vera Smirnova, John Wright, Daniel V. Esposito
 {:.author}
-Review of Scientific Instruments, 2019 (to appear)
+Review of Scientific Instruments, 2019
 {:.booktitle}
 
-<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/RSI19.pdf" > preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
+<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/RSI19.pdf" > paper </a></span> <span class="glyphicon glyphicon-paperclip"></span>
 <span><a role="button" onclick="toggle_block('bibtex-instrument')" >bibtex</a></span>
 
 <div id="bibtex-instrument" class="bibtex">
