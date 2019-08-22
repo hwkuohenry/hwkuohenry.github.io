@@ -126,7 +126,7 @@ In review, 2019
 
 
 
-[Design and Operation of a Scanning Electrochemical Microscope for Imaging with Continuous Line Probes](/assets/RSI19.pdf)
+[Design and Operation of a Scanning Electrochemical Microscope for Imaging with Continuous Line Probes](https://aip.scitation.org/doi/10.1063/1.5095951)
 {:.title}
 Anna E. Dorfi, **Han-Wen Kuo**, Vera Smirnova, John Wright, Daniel V. Esposito
 {:.author}
@@ -138,10 +138,17 @@ Review of Scientific Instruments, 2019
 
 <div id="bibtex-instrument" class="bibtex">
 @article{dorfi2019design,
-  title={Design and Operation of a Scanning Electrochemical Microscope for Imaging with Continuous Line Probes},
-  author={Dorfi, Anna E. and Kuo, Han-Wen and Smirnova, Vera and Wright, John and Esposito, Daniel V.},
-  journal={Preprint},
-  year={2019}
+author = {Dorfi,Anna E.  and Kuo,Han-Wen  and Smirnova,Vera  and Wright,John  and Esposito,Daniel V. },
+title = {Design and operation of a scanning electrochemical microscope for imaging with continuous line probes},
+journal = {Review of Scientific Instruments},
+volume = {90},
+number = {8},
+pages = {083702},
+year = {2019},
+doi = {10.1063/1.5095951},
+
+URL = { https://doi.org/10.1063/1.5095951},
+eprint = { https://doi.org/10.1063/1.5095951 }
 }
 </div>
 
