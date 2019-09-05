@@ -74,25 +74,24 @@ IEEE Transactions on Information Theory, 2019 (To appear)
 
 
 
-
-
 [On the Global Geometry of Sphere-Constrained Sparse Blind Deconvolution](https://ieeexplore.ieee.org/document/8823055) 
 {:.title}
 Yuqian Zhang, Yenson Lau, **Han-Wen Kuo**, Sky Cheung, Abhay Pasupathy, John Wright
 {:.author}
-IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019 (to appear)
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019
 {:.booktitle}
 
-<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="https://arxiv.org/pdf/1901.01913.pdf"> preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
+<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="https://arxiv.org/pdf/1901.01913.pdf"> paper </a></span> <span class="glyphicon glyphicon-paperclip"></span>
 <span><a role="button" onclick="toggle_block('bibtex-sphere-long')" >bibtex</a></span>
 
 <div id="bibtex-sphere-long" class="bibtex">
-@article{zhang2019global,
-  title={On the Global Geometry of Sphere-Constrained Sparse Blind Deconvolution},
-  author={Zhang, Yuqian and Lau, Yenson and Kuo, Han-Wen and Cheung, Sky and Pasupathy, Abhay and Wright, John},
-  journal={arXiv preprint arXiv:1901.01913},
-  year={2019}
-}
+@article{zhang2019global, 
+author={Y. {Zhang} and Y. {Lau} and H. {Kuo} and S. {Cheung} and A. {Pasupathy} and J. N. {Wright}}, 
+journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+title={On the Global Geometry of Sphere-Constrained Sparse Blind Deconvolution}, 
+year={2019}, 
+doi={10.1109/TPAMI.2019.2939237}, 
+ISSN={0162-8828}}
 </div>
 
 
