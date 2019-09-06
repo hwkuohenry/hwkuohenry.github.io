@@ -73,7 +73,6 @@ IEEE Transactions on Information Theory, 2019 (To appear)
 </div>
 
 
-
 [On the Global Geometry of Sphere-Constrained Sparse Blind Deconvolution](https://ieeexplore.ieee.org/document/8823055) 
 {:.title}
 Yuqian Zhang, Yenson Lau, **Han-Wen Kuo**, Sky Cheung, Abhay Pasupathy, John Wright
