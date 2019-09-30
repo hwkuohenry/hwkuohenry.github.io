@@ -102,14 +102,14 @@ ISSN={0162-8828}}
 
 ### Microscopic Line Scan ###
 
-[Compressed Sensing Microscopy with Scanning Line Probes](/assets/neurips_2019.pdf)
+[Compressed Sensing Microscopy with Scanning Line Probes](https://arxiv.org/pdf/1909.12342.pdf)
 {:.title}
  **Han-Wen Kuo**, Anna E. Dorfi, Daniel V. Esposito, John Wright, 
 {:.author}
 In review, 2019
 {:.booktitle}
 
-<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/neurips_2019.pdf" > preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
+<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="https://arxiv.org/pdf/1909.12342.pdf" > preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
 <span style="margin-right:5px"><a role="button" onclick="toggle_block('bibtex-csclp-long')" >bibtex</a></span><span class="glyphicon glyphicon-picture"></span> <span style="margin-right:5px"><a role="button" href="/assets/poster_secmclp.pdf">poster</a></span>
 
 <div id="bibtex-csclp-long" class="bibtex">

@@ -5,11 +5,11 @@ permalink: /talks/
 ---
 
 For the talks I have given, the presentation materials are listed below. 
-
+ptt
 --------
 {:style="margin-bottom:20px"}
 
-(Sep, 2019) Seminar presentation at NYU Courant in New York, NY.<br />
+(Oct, 2019) Seminar presentation at NYU Courant in New York, NY.<br />
 <span> <span class="glyphicon glyphicon-film"></span> <span style="margin-right:5px"><a role="button" href="/assets/slides_SaSD.pdf">(in prep)</a></span>
 
 (Aug, 2019) Seminar presentation at Weill Cornell in New York, NY.<br />
