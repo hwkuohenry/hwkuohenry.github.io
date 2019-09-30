@@ -116,7 +116,7 @@ In review, 2019
 @article{kuo2019compressed,
   title={Compressed Sensing Microscopy with Scanning Line Probes},
   author={Kuo, Han-Wen and Dorfi, Anna E. and Esposito, Daniel V. and Wright, John},
-  journal={Preprint},
+  journal={arXiv preprint arXiv:1909.12342},
   year={2019}
 }
 </div>

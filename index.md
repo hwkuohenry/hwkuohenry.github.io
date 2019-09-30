@@ -64,21 +64,21 @@ SIAM Journal on Mathematics of Data Science, 2019 (to appear)
 </div>
 
 
-[Compressed Sensing Microscopy with Scanning Line Probes](/assets/neurips_2019.pdf)
+[Compressed Sensing Microscopy with Scanning Line Probes](https://arxiv.org/abs/1909.12342)
 {:.title}
  **Han-wen Kuo**, Anna E. Dorfi, Daniel V. Esposito, John Wright, 
 {:.author}
 In review, 2019
 {:.booktitle}
 
-<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/neurips_2019.pdf" > preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
+<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="https://arxiv.org/pdf/1909.12342.pdf" > preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
 <span style="margin-right:5px"><a role="button" onclick="toggle_block('bibtex-csclp-long')" >bibtex</a></span><span class="glyphicon glyphicon-picture"></span> <span style="margin-right:5px"><a role="button" href="/assets/poster_secmclp.pdf">poster</a></span>
 
 <div id="bibtex-csclp-long" class="bibtex">
 @article{kuo2019compressed,
   title={Compressed Sensing Microscopy with Scanning Line Probes},
   author={Kuo, Han-Wen and Dorfi, Anna E. and Esposito, Daniel V. and Wright, John},
-  journal={Preprint},
+  journal={arXiv preprint arXiv:1909.12342},
   year={2019}
 }
 </div>
