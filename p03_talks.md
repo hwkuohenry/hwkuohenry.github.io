@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
 For the talks I have given, the presentation materials are listed below. 
-ptt
+
 --------
 {:style="margin-bottom:20px"}
 
