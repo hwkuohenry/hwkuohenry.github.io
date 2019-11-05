@@ -200,6 +200,26 @@ Long version of ICCV, 2013
 
 ## Conference & Workshop Submissions ##
 
+[Geometry and Symmetry in Short-and-Sparse Deconvolution](/assets/slides_SaSD_long.pdf)
+{:.title}
+**Han-Wen Kuo**,  Yuqian Zhang, Yenson Lau, John Wright
+{:.author}
+53th Annual Asilomar Conference on Signals, Systems and Computers **(Asilomar)**, Oral, 2019
+{:.booktitle}
+
+<span class="glyphicon glyphicon-film"></span> <span style="margin-right:5px"><a role="button" href="/assets/slides_SaSD_long.pdf">slides</a></span> 
+
+<div id="bibtex-asilomar-sas" class="bibtex">
+@inproceedings{kuo2019geometry,
+  title={Geometry and Symmetry in Short-and-Sparse Deconvolution},
+  author={Kuo, Han-Wen and Zhang, Yuqian and Lau, Yenson and Wright, John},
+  booktitle={International Conference on Machine Learning},
+  pages={3570--3580},
+  year={2019}
+}
+</div>
+
+
 [Compressed Sensing Microscopy with Scanning Line Probes](/assets/neurips_2019.pdf)
 {:.title}
  **Han-Wen Kuo**, Anna E. Dorfi, Daniel V. Esposito, John Wright, 
@@ -225,6 +245,7 @@ Yenson Lau, Qing Qu, **Han-Wen Kuo**, Pengcheng Zhou, Yuqian Zhang, John Wright
 {:.author}
 In review, 2019
 {:.booktitle}
+
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/neurips_2019_sas.pdf"> preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
 <span style="margin-right:5px"><a role="button" onclick="toggle_block('bibtex-sasgeo')" >bibtex</a></span>

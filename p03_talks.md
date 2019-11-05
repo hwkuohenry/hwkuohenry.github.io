@@ -9,8 +9,8 @@ For the talks I have given, the presentation materials are listed below.
 --------
 {:style="margin-bottom:20px"}
 
-(Oct, 2019) Seminar presentation at NYU Courant in New York, NY.<br />
-<span> <span class="glyphicon glyphicon-film"></span> <span style="margin-right:5px"><a role="button" href="/assets/slides_SaSD.pdf">(in prep)</a></span>
+(Nov, 2019) Invited talk at Asilomar SSC at Pacific Grove, CA.<br />
+<span> <span class="glyphicon glyphicon-film"></span> <span style="margin-right:5px"><a role="button" href="/assets/slides_SaSD_long.pdf">slides</a></span>
 
 (Aug, 2019) Seminar presentation at Weill Cornell in New York, NY.<br />
 <span> <span class="glyphicon glyphicon-film"></span> <span style="margin-right:5px"><a role="button" href="/assets/slides_SaSD_long.pdf">slides</a></span>
