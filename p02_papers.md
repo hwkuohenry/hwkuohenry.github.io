@@ -243,7 +243,7 @@ In review, 2019
 {:.title}
 Yenson Lau, Qing Qu, **Han-Wen Kuo**, Pengcheng Zhou, Yuqian Zhang, John Wright
 {:.author}
-In review, 2019
+International Conference on Learning Representations **(ICLR)**, 2020
 {:.booktitle}
 
 
