@@ -239,7 +239,7 @@ In review, 2019
 }
 </div>
 
-[Short-and-Sparse Deconvolution — A Geometric Approach](/assets/neurips_2019_sas.pdf)
+[Short-and-Sparse Deconvolution — A Geometric Approach](https://openreview.net/pdf?id=Byg5ZANtvH)
 {:.title}
 Yenson Lau, Qing Qu, **Han-Wen Kuo**, Pengcheng Zhou, Yuqian Zhang, John Wright
 {:.author}
@@ -247,15 +247,15 @@ International Conference on Learning Representations **(ICLR)**, 2020
 {:.booktitle}
 
 
-<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/neurips_2019_sas.pdf"> preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
+<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/iclr_2020_sas.pdf"> paper </a></span> <span class="glyphicon glyphicon-paperclip"></span>
 <span style="margin-right:5px"><a role="button" onclick="toggle_block('bibtex-sasgeo')" >bibtex</a></span>
 
 <div id="bibtex-sasgeo" class="bibtex">
-@article{lau2019short,
+@article{lau2020short,
   title={Short-and-Sparse Deconvolution — A Geometric Approach},
   author={Lau, Yenson and Qu, Qing and Kuo, Han-Wen and Zhou, Pengcheng and Zhang, Yuqian and Wright, John},
-  journal={Preprint},
-  year={2019}
+  journal={International Conference on Learning Representations (ICLR)},
+  year={2020}
 }
 }
 </div>
