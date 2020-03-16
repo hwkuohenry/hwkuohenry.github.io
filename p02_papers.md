@@ -10,23 +10,25 @@ ketex: true
 
 ### Short-and-Sparse Deconvolution ###
 
-[Geometry and Symmetry in Short-and-Sparse Deconvolution](https://arxiv.org/pdf/1901.00256.pdf)
+[Geometry and Symmetry in Short-and-Sparse Deconvolution](https://epubs.siam.org/doi/abs/10.1137/19M1237569)
 {:.title}
 **Han-Wen Kuo**, Yuqian Zhang, Yenson Lau, John Wright
 {:.author}
-SIAM Journal on Mathematics of Data Science, 2019 (to appear)
+SIAM Journal on Mathematics of Data Science, 2020
 {:.booktitle}
-<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="https://arxiv.org/pdf/1901.00256.pdf"> preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
+<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/siam_2020.pdf"> paper </a></span> <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="https://arxiv.org/pdf/1901.00256.pdf"> arXiv </a></span> <span class="glyphicon glyphicon-paperclip"></span>
 <span style="margin-right:5px"><a role="button" onclick="toggle_block('bibtex-sas-long')" >bibtex</a></span> <span> <span class="glyphicon glyphicon-picture"></span> <span style="margin-right:5px"><a role="button" href="/assets/poster_SaSD.pdf">poster</a></span> <span class="glyphicon glyphicon-film"></span> <span style="margin-right:5px"><a role="button" href="/assets/slides_SaSD.pdf">slides</a></span> 
 
 <div id="bibtex-sas-long" class="bibtex">
-@article{kuo2019geometry,
+@article{kuo2020geometry,
   title={Geometry and symmetry in short-and-sparse deconvolution},
   author={Kuo, Han-Wen and Zhang, Yuqian and Lau, Yenson and Wright, John},
-  journal={arXiv preprint arXiv:1901.00256},
-  year={2019}
-}
-}
+  journal={SIAM Journal on Mathematics of Data Science},
+  volume={2},
+  number={1},
+  pages={216--245},
+  year={2020},
+  publisher={SIAM}}
 </div>
 
 
@@ -36,7 +38,7 @@ SIAM Journal on Mathematics of Data Science, 2019 (to appear)
 {:.title}
 Yenson Lau, Qing Qu, **Han-Wen Kuo**, Pengcheng Zhou, Yuqian Zhang, John Wright
 {:.author}
-In review, 2019
+In review, 2020
 {:.booktitle}
 
 <span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/neurips_2019_sas.pdf"> preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
@@ -47,29 +49,32 @@ In review, 2019
   title={Short-and-Sparse Deconvolution — A Geometric Approach},
   author={Lau, Yenson and Qu, Qing and Kuo, Han-Wen and Zhou, Pengcheng and Zhang, Yuqian and Wright, John},
   journal={Preprint},
-  year={2019}
-}
-}
+  year={2020}}
 </div>
 
 
-[Structured Local Optima in Sparse Blind Deconvolution](https://arxiv.org/pdf/1806.00338.pdf)
+[Structured Local Optima in Sparse Blind Deconvolution](https://ieeexplore.ieee.org/document/8830413)
 {:.title}
 Yuqian Zhang, **Han-Wen Kuo**, John Wright
 {:.author}
-IEEE Transactions on Information Theory, 2019 (To appear)
+IEEE Transactions on Information Theory, 2020
 {:.booktitle}
 
-<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="https://arxiv.org/pdf/1806.00338.pdf"> preprint </a></span> <span class="glyphicon glyphicon-paperclip"></span>
+<span class="glyphicon glyphicon-download-alt"></span><span style="margin-right:5px"><a role="button" href="/assets/tit_2019.pdf"> paper </a></span> <span class="glyphicon glyphicon-paperclip"></span>
 <span><a role="button" onclick="toggle_block('bibtex-structured-long')" >bibtex</a></span>
 
 <div id="bibtex-structured-long" class="bibtex">
-@article{zhang2018structured,
-  title={Structured local optima in sparse blind deconvolution},
-  author={Zhang, Yuqian and Kuo, Han-Wen and Wright, John},
-  journal={arXiv preprint arXiv:1806.00338},
-  year={2018}
-}
+@article{8830413,
+author={Y. {Zhang} and H. {Kuo} and J. {Wright}},
+journal={IEEE Transactions on Information Theory},
+title={Structured Local Optima in Sparse Blind Deconvolution},
+year={2020},
+volume={66},
+number={1},
+pages={419-452},
+doi={10.1109/TIT.2019.2940657},
+ISSN={1557-9654},
+month={Jan},}
 </div>
 
 
