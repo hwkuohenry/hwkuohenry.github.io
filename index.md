@@ -12,6 +12,8 @@ I am a graduating PhD student form Columbia University advised by professor [Joh
 
 My recent projects involve building [mathematical understanding toward deconvolution problems](https://deconvlab.github.io), and interdisciplinary research with chemistry department on [efficient microscopic imaging](/pages/intro_clp). These projects are intersection of high-dimensional data analysis,  non-convex optimization, and theories of inverse problem. 
 
+After finishing my graduate study, and the longest year of 2020, I will be joining Google and focus on machine learning algorithms and optimization methods for online / reinforcement learning, as well as its practical applications in large scale. 
+
 
 <br/>
 
