@@ -14,6 +14,7 @@ My recent projects involve building [mathematical understanding toward deconvolu
 
 After finishing my graduate study, and the ever longest year of 2020, I will be joining Google and focus on research of machine learning algorithms and optimization methods for online / reinforcement learning, as well as its practical applications in large scale. 
 
+
 <br/>
 
 ## Projects ##
