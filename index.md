@@ -8,11 +8,14 @@ Photoed in 2018 watching champions league final (in Liverpool FC supporter's pub
 {:style="float:right; width:26%; margin:5px 10px 10px 15px; font-size:50%; font-style:italic"}
  -->
 
-Hi! I am Henry, an ML scientist with PhD form Columbia University advised by professor [John Wright](http://www.columbia.edu/~jw2966/) and involved in active research with professor [Daniel Esposito](https://cheme.columbia.edu/faculty/daniel-esposito). My research is focused on developing and understanding methodologies for data analysis; and I am specifically interested in analyzing machine learning algorithms for scientific and visual data processing. 
+*Hi! I am Henry,...* <br />
+an ML scientist with PhD form Columbia University advised by professor [John Wright](http://www.columbia.edu/~jw2966/) and involved in active research with professor [Daniel Esposito](https://cheme.columbia.edu/faculty/daniel-esposito). My research is focused on developing and understanding methodologies for data analysis; and I am specifically interested in analyzing machine learning algorithms for scientific and visual data processing. 
 
-My recent projects involve building [mathematical understanding toward deconvolution problems](https://deconvlab.github.io), and interdisciplinary research with chemistry department on [efficient microscopic imaging](/pages/intro_clp). These projects are intersection of high-dimensional data analysis,  non-convex optimization, statistics of large sample phenomenon, and theories of inverse problem. 
+*My projects...* <br />
+during my graduate study involve building [mathematical understanding toward deconvolution problems](https://deconvlab.github.io), which is a challenging and recurrent problem in engineering and science; and interdisciplinary research with chemistry department on [efficient microscopic imaging](/pages/intro_clp) in whcih we acsellerate the scanning speed many times faster. Technically speaking, these projects are intersection of high-dimensional data analysis,  non-convex optimization, statistics of large sample phenomenon, and theories of inverse problem. 
 
-After finishing my graduate study, and the ever longest year of 2020, I join Google and focus on the development of online and reinforment machine learning model, as well as the research studies of related optimization algorithms with practical applications in large scale. In the future, I will keep updating my none-work-related projects on optimization in my pages and hopefully you can find interest in.
+*About what I am doing...* <br />
+after finishing my graduate study, and the ever longest year of 2020, I join Google and focus on the development of online and reinforment machine learning model, as well as the research studies of related optimization algorithms with practical applications in large scale. In the future, I will keep updating my none-work-related projects on optimization in my pages and hopefully you can find interest in.
 
 
 <br/>
