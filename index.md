@@ -8,14 +8,11 @@ Photoed in 2018 watching champions league final (in Liverpool FC supporter's pub
 {:style="float:right; width:26%; margin:5px 10px 10px 15px; font-size:50%; font-style:italic"}
  -->
 
-*Hi! I am Henry,...* <br />
-an ML scientist with PhD form Columbia University advised by professor [John Wright](http://www.columbia.edu/~jw2966/) and involved in active research with professor [Daniel Esposito](https://cheme.columbia.edu/faculty/daniel-esposito). My research is focused on developing and understanding methodologies for data analysis, I am specifically interested in analyzing machine learning algorithms for scientific or visual data processing, and understanding effective optimization methods in large scale.
+**Hi! I am Henry,** an ML scientist with PhD form Columbia University advised by professor [John Wright](http://www.columbia.edu/~jw2966/) and involved in active research with professor [Daniel Esposito](https://cheme.columbia.edu/faculty/daniel-esposito). My research is focused on developing and understanding methodologies for data analysis, I am specifically interested in analyzing machine learning algorithms for scientific or visual data processing, and understanding effective optimization methods in large scale.
 
-*My projects...* <br />
-during my graduate study involved building [mathematical understanding toward deconvolution problems](https://deconvlab.github.io), which is a challenging, recurrent, and long-standing problem in engineering and science; in addition I conducted interdisciplinary research with chemistry department on [efficient microscopic imaging](/pages/intro_clp) in which we built a novel microscope that accelerate the scanning speed many times faster. Technically speaking, these projects are intersection of high-dimensional data analysis,  non-convex optimization, statistics of large sample phenomenon, and theories of inverse problem. 
+**My projects** during my graduate study involved building [mathematical understanding toward deconvolution problems](https://deconvlab.github.io), which is a challenging, recurrent, and long-standing problem in engineering and science; in addition I conducted interdisciplinary research with chemistry department on [efficient microscopic imaging](/pages/intro_clp) in which we built a novel microscope that accelerate the scanning speed many times faster. Technically speaking, these projects are intersection of high-dimensional data analysis,  non-convex optimization, statistics of large sample phenomenon, and theories of inverse problem. 
 
-*About what I am doing...* <br />
-after finishing my graduate study, and the ever longest year of 2020, I join Google and focus on the development of online and reinforcement machine learning model, as well as on the research studies of the related optimization algorithms with practical applications in large scale. In the future, I will keep updating my new none-work-related findings on online optimization in my pages and hopefully you will find interest in.
+**About what I am doing** after finishing my graduate study, and the ever longest year of 2020, I join Google and focus on the development of online and reinforcement machine learning model, as well as on the research studies of the related optimization algorithms with practical applications in large scale. In the future, I will keep updating my new none-work-related findings on online optimization in my pages and hopefully you will find interest in.
 
 
 <br/>
