@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Han-Wen (Henry) Kuo
-description: Henry Kuo, personal webpage, about my research projects.
+description: Henry Kuo, machine learning scientist, on my research projects.
 author: Henry Kuo
 email: hk2673@columbia.edu
 date: 07/01/2021
